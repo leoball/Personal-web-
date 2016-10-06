@@ -12,6 +12,7 @@ font-size: 100px;
 
 
 }
+
 #header {
 
 	text-align: center;
@@ -40,14 +41,16 @@ font-size: 100px;
 
 
 }
-.column{
 
+#ABOUTME{
 	
-	text-align: left;
-	/*border-bottom: 1px;*/
-	margin: 0 auto;
 
+text-align: left;
+margin-left: 300px;
 }
+
+
+
 .name{
 
 	color: red;
